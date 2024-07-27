@@ -1,5 +1,10 @@
 # RHCSA Practice Exam Tasks
 
+## New and More Advanced Tasks Added
+
+I've recently added new and significantly more challenging tasks to push your skills to the next level. Check them out below:
+
+
 This repository contains a set of practice tasks designed to help you prepare for the Red Hat Certified System Administrator (RHCSA) exam. These tasks cover a range of topics and configurations that are commonly encountered in the RHCSA exam.
 
 ## Tasks Overview
